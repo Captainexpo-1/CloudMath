@@ -103,3 +103,10 @@ This operation finds a random number between 0 and 1
 
 The quadratic and cubic formulas only return real roots 
 
+Currently there is no permanent domain for this api so it will only work locally which I believe is even better.
+
+## Contributing
+
+If you want to contribute to this api you are wrong and you should stop.
+
+However if you are still reading this and you want to contribute you can make a pull request and I will probably accept it.
