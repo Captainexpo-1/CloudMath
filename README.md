@@ -110,3 +110,5 @@ Currently there is no permanent domain for this api so it will only work locally
 If you want to contribute to this api you are wrong and you should stop.
 
 However if you are still reading this and you want to contribute you can make a pull request and I will probably accept it.
+
+(Please contribute)
