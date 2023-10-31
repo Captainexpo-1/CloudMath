@@ -3,7 +3,7 @@ const path = require('path');
 const get_op = require('./helpers/get-op.js')
 
 const app = express();
-const port = 5500;
+const port = process.env.PORT || 5500;
 
 app.get('/', (req, res) => {
   console.log("requested for homepage")
