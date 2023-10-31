@@ -15,7 +15,8 @@ app.get('/api/math', (req, res) => {
   console.log("recieved query")
   res.send(
     {
-      "result": get_op.GetOperation(q).toString()
+      "result": get_op.GetOperation(q).toString(),
+      "operation": q.operation,
     }
   )
 });
